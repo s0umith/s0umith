@@ -1,10 +1,19 @@
-## Hi there! I'm Soumith 👋
+# 👋 Hi, I'm Soumith Batta
 
-### About Me:
-- 🎓&nbsp;Studying Aerospace Engineering at Indian Institute of Technology, Kanpur.
-- ✈️&nbsp; From Hyderabad
-- 🚁&nbsp;Working on drones as a Team Member of Aerial Robotics, IITK.
-- 👽&nbsp;Organizing and Conducting events as a Secretary of Astronomy Club, IITK.
-- 🤖&nbsp; Currently trying to explore Robotics and Reinforcement Learning. I hope to work at the intersection of these 2 fields and create something interesting.
-- 👯&nbsp; I’m looking to collaborate on anything that can help me learn something new.
-- ⚡&nbsp; Fun fact: I love swimming, playing piano and have some experience with cryptocurrency as well.
+I'm a Robotics and Machine Learning Engineer currently pursuing my Master's in Robotics at the University of Minnesota‑Twin Cities. My expertise lies in Robotics, Computer Vision, and Control Systems. I have a strong passion for developing innovative solutions and thrive in collaborative environments. I'm always eager to work with others on challenging tasks that push the boundaries of technology and innovation.
+
+## 🎧 When I'm Not Coding
+
+I hardly get any free time, but when I do, I love:
+
+- 📸 Photography
+- 🛹 Skateboarding
+- 🎵 Listening to techno music
+
+## 📫 Get in Touch
+
+- **Email:** batta083@umn.edu
+- **GitHub:** [s0umith](https://github.com/s0umith)
+- **LinkedIn:** [s0umith](https://www.linkedin.com/in/s0umith)
+
+Feel free to reach out or collaborate on exciting projects!
