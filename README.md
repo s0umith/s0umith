@@ -4,7 +4,7 @@ I'm a Robotics and Machine Learning Engineer currently pursuing my Master's in R
 
 ## 🎧 In My Free Time
 
-When I'm not coding, I enjoy staying creative and active:
+I enjoy staying creative and active:
 
 📸  Photography
 
