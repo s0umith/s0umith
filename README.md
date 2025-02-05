@@ -18,3 +18,8 @@ I enjoy staying creative and active:
 - **LinkedIn:** [s0umith](https://www.linkedin.com/in/s0umith)
 
 Feel free to reach out or collaborate on exciting projects!
+---
+
+###  How ChatGPT Thinks My Life Looks Like  
+
+![How ChatGPT Thinks My Life Looks Like](prompt.webp)
