@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Soumith Batta
 
-I'm a Robotics and Machine Learning Engineer currently pursuing my Master's in Robotics at the University of Minnesota‑Twin Cities. My expertise lies in Robotics, Computer Vision, Machine Learning, and Control Systems. I have a strong passion for developing innovative solutions and thrive in collaborative environments. I'm always eager to work with others on challenging tasks that push the boundaries of technology and innovation.
+I'm a Robotics and Machine Learning Engineer currently pursuing my Master's in Robotics at the University of Minnesota‑Twin Cities. I hold a Bachelor’s degree in Aerospace Engineering from IIT Kanpur, where I cultivated a strong foundation in engineering principles and problem-solving. My expertise now lies in Robotics, Computer Vision, Machine Learning, and Control Systems. 
 
 ## 🎧 In My Free Time
 
@@ -10,7 +10,7 @@ I enjoy staying creative and active:
 
 🛹  Skateboarding
 
-🎵  Listening to techno music
+🏂  Snowboarding
 ## 📫 Get in Touch
 
 - **Email:** [batta083@umn.edu](mailto:batta083@umn.edu)
